@@ -1,60 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:0D0221,50:190061,100:3500D3&height=170&text=🧮%20Smart%20Calculator&fontSize=38&fontColor=00F5D4&fontAlignY=45&desc=Clean.%20Fast.%20Always%20Adds%20Up.&descAlignY=68&descSize=15&descColor=B8B8FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B9D,50:C74B9E,100:6B3FA0&height=190&text=🧮%20Smart%20Calculator&fontSize=40&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Clean%20UI%20·%20Dark%20Mode%20·%20Keyboard-Ready&descAlignY=60&descSize=16&descColor=FFE9F5" width="100%"/>
 
 <a href="https://apurva-chaudhari.github.io/Smart-Calculator/">
-  <img src="https://img.shields.io/badge/🌐_LIVE_DEMO-Try_it_now-00F5D4?style=for-the-badge&labelColor=0D0221"/>
+  <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Try_it_now-FF6B9D?style=for-the-badge&labelColor=6B3FA0"/>
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/HTML5-0D0221?style=flat-square&logo=html5&logoColor=E34F26"/>
-<img src="https://img.shields.io/badge/CSS3-0D0221?style=flat-square&logo=css3&logoColor=1572B6"/>
-<img src="https://img.shields.io/badge/JavaScript_ES6-0D0221?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Bootstrap_5-0D0221?style=flat-square&logo=bootstrap&logoColor=7952B3"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript_ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/github/stars/apurva-chaudhari/Smart-Calculator?style=flat-square&color=FF6B9D&label=Stars"/>
 
 </div>
 
 <br/>
 
-A modern, responsive calculator with a clean interface, **dark/light mode**, **keyboard shortcuts**, and **persistent calculation history** — built with vanilla JavaScript and Bootstrap.
+A modern, responsive calculator with a clean interface, **dark/light mode**, **full keyboard support**, and **persistent calculation history** — built with vanilla JavaScript and Bootstrap 5.
 
 <br/>
 
 <div align="center">
+<img src="images/calculator-preview.png" alt="Calculator Preview" width="360">
+</div>
 
-```
-┌─────────────────────────────┐
-│  12 + 8 × 3                 │
-│                       = 36  │
-└─────────────────────────────┘
-```
+<br/>
+
+## ✨ Highlights
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/➕_➖_✖_➗-Core%20Operations-FF6B9D?style=for-the-badge&labelColor=2B1B3D"/>
+<img src="https://img.shields.io/badge/🌙-Dark_%2F_Light_Mode-6B3FA0?style=for-the-badge&labelColor=2B1B3D"/>
+<img src="https://img.shields.io/badge/⌨️-Keyboard_Support-C74B9E?style=for-the-badge&labelColor=2B1B3D"/>
+
+<img src="https://img.shields.io/badge/🕒-Calculation_History-FF6B9D?style=for-the-badge&labelColor=2B1B3D"/>
+<img src="https://img.shields.io/badge/💾-Saved_via_LocalStorage-6B3FA0?style=for-the-badge&labelColor=2B1B3D"/>
+<img src="https://img.shields.io/badge/📱-Fully_Responsive-C74B9E?style=for-the-badge&labelColor=2B1B3D"/>
 
 </div>
 
 <br/>
 
-## 📸 Preview
+## 🧾 Full Feature List
 
-<div align="center">
-<img src="images/calculator-preview.png" alt="Calculator Preview" width="350">
-</div>
-
-<br/>
-
-## ⚡ Feature Panel
-
-<div align="center">
-
-| 🔢 Core Ops | 🎨 Experience | 🧠 Smart Extras |
-|:---:|:---:|:---:|
-| Addition | Dark / Light Mode | Calculation History |
-| Subtraction | Responsive Design | History via Local Storage |
-| Multiplication | Keyboard Support | Copy Result |
-| Division | Error Handling | Backspace / Clear (AC) |
-| Percentage (%) | — | — |
-
-</div>
+| | |
+|---|---|
+| ➕ Addition | 📊 Percentage Calculation |
+| ➖ Subtraction | 🗑️ Clear Display (AC) |
+| ✖️ Multiplication | ⌫ Backspace |
+| ➗ Division | 📋 Copy Result |
+| ⚠️ Error Handling | 🌙 Dark / Light Mode Toggle |
 
 <br/>
 
@@ -64,13 +62,13 @@ A modern, responsive calculator with a clean interface, **dark/light mode**, **k
 
 | Key | Action |
 |:---:|---|
-| `0`–`9` | Enter numbers |
-| `+` `-` `*` `/` | Operators |
-| `.` | Decimal point |
-| `Enter` | Calculate result |
-| `Backspace` | Delete last character |
-| `Esc` | Clear display |
-| `%` | Percentage |
+| <kbd>0</kbd> – <kbd>9</kbd> | Enter numbers |
+| <kbd>+</kbd> <kbd>-</kbd> <kbd>*</kbd> <kbd>/</kbd> | Operators |
+| <kbd>.</kbd> | Decimal point |
+| <kbd>Enter</kbd> | Calculate result |
+| <kbd>⌫ Backspace</kbd> | Delete last character |
+| <kbd>Esc</kbd> | Clear display |
+| <kbd>%</kbd> | Percentage |
 
 </div>
 
@@ -80,10 +78,7 @@ A modern, responsive calculator with a clean interface, **dark/light mode**, **k
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
-
-<br/>
-<sub>HTML5 · CSS3 · JavaScript (ES6) · Bootstrap 5 · Bootstrap Icons</sub>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 
 </div>
 
@@ -92,22 +87,19 @@ A modern, responsive calculator with a clean interface, **dark/light mode**, **k
 ## 📂 Project Structure
 
 <details>
-<summary>Click to expand</summary>
+<summary><b>Click to expand</b></summary>
+<br/>
 
 ```
 Smart-Calculator/
 │
 ├── index.html
-│
 ├── css/
 │   └── style.css
-│
 ├── js/
 │   └── script.js
-│
 ├── images/
 │   └── calculator-preview.png
-│
 └── README.md
 ```
 
@@ -117,16 +109,14 @@ Smart-Calculator/
 
 ## 🚀 Run It Locally
 
-**1. Clone the repository**
 ```bash
+# 1. Clone the repository
 git clone https://github.com/apurva-chaudhari/Smart-Calculator.git
+
+# 2. Open the project folder, then either:
+#    → double-click index.html
+#    → or open it with VS Code Live Server
 ```
-
-**2. Open the project folder**
-
-**3. Launch it** — either:
-- Double-click `index.html`, or
-- Open with **VS Code Live Server**
 
 <br/>
 
@@ -147,7 +137,7 @@ git clone https://github.com/apurva-chaudhari/Smart-Calculator.git
 **Apurva Chaudhari**
 *Bachelor of Engineering (B.E.) Student*
 
-<a href="https://github.com/apurva-chaudhari"><img src="https://img.shields.io/badge/GitHub-0D0221?style=for-the-badge&logo=github&logoColor=00F5D4"/></a>
+<a href="https://github.com/apurva-chaudhari"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
 
@@ -159,6 +149,6 @@ git clone https://github.com/apurva-chaudhari/Smart-Calculator.git
 
 ### ⭐ If you like this project, consider giving it a Star on GitHub!
 
-<img src="https://capsule-render.vercel.app/api?type=blur&color=0:3500D3,50:190061,100:0D0221&height=100" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6B3FA0,50:C74B9E,100:FF6B9D&height=100" width="100%"/>
 
 </div>
